@@ -1,1 +1,2 @@
 # MakotoPlace
+MakotoPlace project repository.
